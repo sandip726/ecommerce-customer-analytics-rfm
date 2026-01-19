@@ -22,11 +22,11 @@ Includes customers, orders, order items, payments, products, reviews, sellers, a
 
 ## Project Architecture
 PostgreSQL (Raw Tables & SQL Views)
-        ↓
+        
 Python (Data Validation & RFM Segmentation)
-        ↓
+        
 CSV Exports
-        ↓
+        
 Power BI Dashboards
 
 ## Key Analysis Performed
