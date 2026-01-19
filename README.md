@@ -16,7 +16,7 @@ Python (Pandas, SQLAlchemy, Matplotlib, Seaborn) – Data cleaning, RFM analysis
 Power BI – Interactive dashboards and storytelling
 GitHub – Version control and portfolio presentation
 
-## Dataset
+## Dataset(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 Multi-table e-commerce transactional dataset
 Includes customers, orders, order items, payments, products, reviews, sellers, and geolocation data
 
