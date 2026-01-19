@@ -62,13 +62,13 @@ Power BI Dashboards
 * Orders Trend
 * Business insight annotations
 
-### 📌 Page 2 – Customer Segmentation (RFM)
+### Page 2 – Customer Segmentation (RFM)
 
 * Customer distribution by segment
 * Revenue share by segment
 * Segment performance table
 
-### 📌 Page 3 – Customer Behavior Analysis
+### Page 3 – Customer Behavior Analysis
 
 * Purchase frequency distribution
 * Recency vs Monetary scatter plot
